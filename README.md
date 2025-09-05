@@ -29,7 +29,9 @@ API orqali poyabzallarni qo‘shish, ko‘rish, tahrirlash va o‘chirish (CRUD)
 
 5️⃣Virtual muhitni activlashtirish source .env/bin/activate # Linux/MacOS .env\Scripts\activate # Windows
 
-6️⃣ Kerakli kutubxonalarni o‘rnatish pip install Django 
+6️⃣ Kerakli kutubxonalarni o‘rnatish 
+
+pip install Django 
 
 pip install -r requirements.txt
 
